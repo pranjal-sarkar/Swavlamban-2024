@@ -27,6 +27,7 @@ Install Tesseract from here.
 2. Clone the repository
 
 git clone https://github.com/pranjal-sarkar/Swavlamban-2024.git
+
 cd maritime-contact-tracking
 
 3. Install Dependencies
